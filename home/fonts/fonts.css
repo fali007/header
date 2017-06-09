@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('opensans-regular-webfont.woff2') format('woff2'),
+         url('opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'futurapt_bold';
+    src: url('FuturaPTBold.woff2') format('woff2'),
+         url('FuturaPTBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'futurapt_light';
+    src: url('FuturaPTLightwoff2') format('woff2'),
+         url('FuturaPTLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

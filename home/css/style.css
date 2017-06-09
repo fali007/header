@@ -1,0 +1,158 @@
+body{
+  margin: 0px;
+}
+.container{
+  width: 100%;
+  height: auto;
+  /*background-color: blue;*/
+}
+.section_title{
+  width: 80%;
+  max-width: 930px;
+  margin: 0 auto;
+  height: 175px;
+  position: relative;
+  font-family: 'futurapt_bold';
+  font-size: 45px;
+  /*background-color: red;*/
+  text-align: center;
+  padding-top: 120px;
+  /*border-bottom: 1px solid #1f2225;*/
+}
+.seprator{
+  height: 1px;
+  background-color: rgba(0,0,0,0.2);
+  max-width: 1000px;
+  margin: 0 auto;
+}
+/*.text{*/
+  /*position: absolute;*/
+  /*top:30px;*/
+/*}*/
+.prof_list{
+  position: relative;
+  top: 40px;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  position: relative;
+  /*background-color: green;*/
+  max-width: 1000px;
+
+}
+.prof_left{
+  /*position: relative;
+  top:60px;*/
+  /*border-top: 1px solid #1f1f1f;
+  border-color: #1f1f1f;*/
+  margin: 0 auto;
+  width: 80%;
+  height: 370px;
+  /*background-color: violet;*/
+}
+.prof_right{
+  margin: 0 auto;
+  width: 80%;
+  height: 370px;
+  /*border-bottom: 1px solid #1f1f1f;*/
+  border-color: #1f1f1f;
+  /*background-color: violet;*/
+}
+.prof_left div.dp{
+  width: 220px;
+  position: relative;
+  /*background-color: blue;*/
+  height: 240px;
+  float: left;
+}
+.description{
+  font-family: 'futurapt_light';
+  line-height: 200%;
+  max-width: 630px;
+
+}
+.prof_left div.description{
+  margin: 0 auto;
+  float: right;
+  /*background-color: skyblue;*/
+  height:240px;
+  width: 70%;
+
+}
+b{
+  font-family: 'futurapt_bold';
+}
+.prof_right div.dp{
+  width: 220px;
+  position: relative;
+  height: 240px;
+  /*background-color: blue;*/
+  float: right;
+}
+.prof_right div.description{
+  width: 70%;
+  float: left;
+  /*background-color: skyblue;*/
+  height:240px;
+  line-height: 200%;
+  }
+  .research_scholar{
+    max-width:1000px;
+    height: 900px;
+    margin: 0 auto;
+  }
+  .sub_heading{
+    position: relative;
+    font-size: 26px;
+    font-family: 'futurapt_bold';
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .scholar{
+    position: relative;
+    margin: 0 auto;
+    width: 20%;
+    height: 370px;
+    float: left;
+    /*background-color: red;*/
+    position: relative;
+    margin-right: 133px;
+
+  }
+  .photo{
+    width: 100%;
+    height: 240px;
+    position: relative;
+    /*background-color: blue;*/
+  }
+  .des{
+    position: relative;
+    top: 25px;
+    width: 70%;
+    height: 130px;
+    font-size: 14px;
+    font-family: 'futurapt_light';
+
+
+    /*background-color: green;*/
+  }
+  .more_people{
+    margin: 0 auto;
+    position: relative;
+    left:-40px;
+    background-color: #363636;
+    color: #363636;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    /*padding-top: 23px;*/
+  }
+  .text1{
+    /*margin-top: 23px;*/
+    position: relative;
+    top: 23px;
+    font-size: 15px;
+    color: white;
+    font-family: 'futurapt_light';
+  }
